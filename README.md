@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- 📫 How to reach me: https://linktr.ee/denis
+ 📫 Contact & For more: https://linktr.ee/denis
 
 <!--
 **DenisMashov/DenisMashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
