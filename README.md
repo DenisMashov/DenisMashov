@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello there, I'm Denis.
 
 🎯 I'm interested in development.                                                                                                                         
 🔷 I like Gaming, Music, Movies, and spending time with friends.                                                                                                         
