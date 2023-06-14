@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-DenisMashov&color=blue)
-  
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+ 
+
 
 ### 👋 Hello there, I'm Denis. 
 
