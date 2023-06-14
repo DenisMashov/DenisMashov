@@ -7,8 +7,7 @@
 * 🎯 I'm interested in development.                                                                                                                         
 * ⭐ I like Gaming, Music, Movies, and spending time with friends.                                                                                                 
 * 🔗 https://linktr.ee/denis & [Discord Profile](https://discord.com/users/385117340028764165)
-<h3 align="center">A passionate frontend developer from India</h3>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/denismashov04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denismashov04" height="30" width="40" /></a>
@@ -23,6 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denismashov&show_icons=true&locale=en" alt="denismashov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denismashov&" alt="denismashov" /></p>
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
