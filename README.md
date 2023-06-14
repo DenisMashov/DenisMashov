@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Hello there, I'm Denis.
+### Hello there, I'm Denis.
  🎯 I'm interested in development.                                                                                                                         
  ⭐ I like Gaming, Music, Movies, and spending time with friends.                                                                                                 
  🔗 https://linktr.ee/denis & [Discord Profile](https://discord.com/users/385117340028764165)
