@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-DenisMashov&color=blue)
+ <div align="center">
 
 
 ### 👋 Hello there, I'm Denis. 
@@ -9,6 +10,9 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/385117340028764165)](https://discord.com/users/385117340028764165)
+
+</div>
 
 <!--
 **DenisMashov/DenisMashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
