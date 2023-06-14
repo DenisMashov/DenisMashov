@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=your-github-DenisMashov&color=blue)
- <div align="center">
 
 
 ### 👋 Hello there, I'm Denis. 
@@ -9,6 +8,7 @@
 * 🔗 https://linktr.ee/denis & [Discord Profile](https://discord.com/users/385117340028764165)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/385117340028764165)](https://discord.com/users/385117340028764165)
 
