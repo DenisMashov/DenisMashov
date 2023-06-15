@@ -4,13 +4,14 @@
  ⭐ I Like Gaming, Music, Movies, and spending time with friends.  
  🔗 https://linktr.ee/denis & [Discord Profile](https://discord.com/users/385117340028764165)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-DenisMashov&color=blue)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/385117340028764165?hideDiscrim=true)](https://discord.com/users/385117340028764165)
 
- 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
