@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-DenisMashov&color=blue)
 
-<a href="https://discord.gg"><img width="404" src="https://lanyard-badge.vercel.app/api/385117340028764165?&hideDiscrim"></a> 
+<a href="https://discord.gg"><img width="500" src="https://lanyard-badge.vercel.app/api/385117340028764165?&hideDiscrim"></a> 
 
 </div>
 
