@@ -8,14 +8,14 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-DenisMashov&color=blue)
 
-<a href="https://discord.gg"><img width="500" src="https://lanyard-badge.vercel.app/api/385117340028764165?&hideDiscrim"></a> 
+[![Discord Presence](https://lanyard.cnrad.dev/api/385117340028764165?hideDiscrim=true)](https://discord.com/users/385117340028764165)
+
+ 
 
 </div>
 
 <!--
 **DenisMashov/DenisMashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Discord Presence](https://lanyard.cnrad.dev/api/385117340028764165)?&hideDiscrim](https://discord.com/users/385117340028764165)
-
 Here are some ideas to get you started:
 
 -->
