@@ -1,2 +1,2 @@
 ## Hello 👋
-- just avrg github user
+- Just an average GitHub user.
