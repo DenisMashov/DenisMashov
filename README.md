@@ -1,7 +1,7 @@
 ### Hello 👋
-**Just an average GitHub user.**
 
 - 🌍 Just exploring the internet
 - 🎮 Into games and technology
 - 📂 Mostly here for useful and interesting projects
-- ✨ Nothing special, just here
+
+**Contact**: [Discord](https://discord.com/users/385117340028764165)
